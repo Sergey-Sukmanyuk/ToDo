@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8440f038-756f-406e-ab40-93525012f49e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TodoListFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListFooter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TodoListHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TodoListTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TodoListTasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListTasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +44,39 @@
       <option name="presentableId" value="Default" />
       <updated>1583953396000</updated>
       <workItem from="1583953400390" duration="7706000" />
-      <workItem from="1584287720750" duration="9263000" />
+      <workItem from="1584287720750" duration="9605000" />
+      <workItem from="1584387777624" duration="114000" />
+      <workItem from="1584475434543" duration="702000" />
     </task>
+    <task id="LOCAL-00001" summary="Used filter for change button color &amp; made adding task when we clicked button">
+      <created>1584305418426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584305418426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Used filter for change button color &amp; made adding task when we clicked button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Used filter for change button color &amp; made adding task when we clicked button" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1583961141125">
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1584305417185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583961141125" />
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584305417185" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584387891729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584387891729" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584305420819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584305420819" />
   </component>
 </project>

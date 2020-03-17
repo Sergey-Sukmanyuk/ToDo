@@ -18,7 +18,7 @@ class App extends React.Component {
             {id: 4, title: "React", isDone: false, priority: "high"},
 
         ],
-        filterValue: "Active"
+        filterValue: "All"
     }
 
     addTask = (newText) => {
@@ -40,7 +40,7 @@ class App extends React.Component {
         })
     }
 
-    changeStatus = (isDone, task) => {
+    changeStatus = (task, isDone) => {
         let newTasks = this.state.tasks.map(t => {
             if (t !=task) {
                 return t
