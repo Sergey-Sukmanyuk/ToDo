@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8440f038-756f-406e-ab40-93525012f49e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoListFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListFooter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoListHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TodoListTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoListTask.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +49,7 @@
       <workItem from="1583953400390" duration="7706000" />
       <workItem from="1584287720750" duration="9605000" />
       <workItem from="1584387777624" duration="114000" />
-      <workItem from="1584475434543" duration="702000" />
+      <workItem from="1584475434543" duration="6168000" />
     </task>
     <task id="LOCAL-00001" summary="Used filter for change button color &amp; made adding task when we clicked button">
       <created>1584305418426</created>
@@ -55,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584305418426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made some refactoring now we can changed check box status">
+      <created>1584476339749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584476339749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,20 +73,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Used filter for change button color &amp; made adding task when we clicked button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Used filter for change button color &amp; made adding task when we clicked button" />
+    <MESSAGE value="made some refactoring now we can changed check box status" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some refactoring now we can changed check box status" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1584305417185">
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1584476336460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584305417185" />
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584476336460" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584387891729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584387891729" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584305420819">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584476410527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584305420819" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584476410527" />
   </component>
 </project>
